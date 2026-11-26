@@ -1,0 +1,14 @@
+# per-machine state (your keyboard's sound and your settings)
+settings.json
+calibration.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# model weights and recordings
+*.pth
+*.npy
+*.wav

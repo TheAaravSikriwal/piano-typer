@@ -1,0 +1,230 @@
+{
+ "version": 1,
+ "lowest_midi": 36,
+ "highest_midi": 96,
+ "keys": {
+  "36": {
+   "kind": "control",
+   "value": "enter"
+  },
+  "38": {
+   "kind": "char",
+   "value": "."
+  },
+  "40": {
+   "kind": "char",
+   "value": ","
+  },
+  "41": {
+   "kind": "char",
+   "value": "?"
+  },
+  "43": {
+   "kind": "char",
+   "value": "!"
+  },
+  "45": {
+   "kind": "char",
+   "value": "'"
+  },
+  "46": {
+   "kind": "control",
+   "value": "suggest3"
+  },
+  "47": {
+   "kind": "char",
+   "value": "-"
+  },
+  "48": {
+   "kind": "control",
+   "value": "complete"
+  },
+  "49": {
+   "kind": "control",
+   "value": "suggest1"
+  },
+  "50": {
+   "kind": "control",
+   "value": "double"
+  },
+  "51": {
+   "kind": "control",
+   "value": "suggest2"
+  },
+  "52": {
+   "kind": "control",
+   "value": "undo"
+  },
+  "53": {
+   "kind": "control",
+   "value": "shift"
+  },
+  "54": {
+   "kind": "control",
+   "value": "space"
+  },
+  "55": {
+   "kind": "control",
+   "value": "delete_word"
+  },
+  "56": {
+   "kind": "control",
+   "value": "backspace"
+  },
+  "57": {
+   "kind": "letter",
+   "value": "z"
+  },
+  "58": {
+   "kind": "letter",
+   "value": "j"
+  },
+  "59": {
+   "kind": "letter",
+   "value": "y"
+  },
+  "60": {
+   "kind": "letter",
+   "value": "x"
+  },
+  "61": {
+   "kind": "letter",
+   "value": "b"
+  },
+  "62": {
+   "kind": "letter",
+   "value": "l"
+  },
+  "63": {
+   "kind": "letter",
+   "value": "p"
+  },
+  "64": {
+   "kind": "letter",
+   "value": "d"
+  },
+  "65": {
+   "kind": "letter",
+   "value": "s"
+  },
+  "66": {
+   "kind": "letter",
+   "value": "m"
+  },
+  "67": {
+   "kind": "letter",
+   "value": "a"
+  },
+  "68": {
+   "kind": "letter",
+   "value": "u"
+  },
+  "69": {
+   "kind": "letter",
+   "value": "e"
+  },
+  "70": {
+   "kind": "letter",
+   "value": "c"
+  },
+  "71": {
+   "kind": "letter",
+   "value": "i"
+  },
+  "72": {
+   "kind": "letter",
+   "value": "r"
+  },
+  "73": {
+   "kind": "letter",
+   "value": "h"
+  },
+  "74": {
+   "kind": "letter",
+   "value": "n"
+  },
+  "75": {
+   "kind": "letter",
+   "value": "g"
+  },
+  "76": {
+   "kind": "letter",
+   "value": "t"
+  },
+  "77": {
+   "kind": "letter",
+   "value": "f"
+  },
+  "78": {
+   "kind": "letter",
+   "value": "k"
+  },
+  "79": {
+   "kind": "letter",
+   "value": "o"
+  },
+  "80": {
+   "kind": "letter",
+   "value": "v"
+  },
+  "81": {
+   "kind": "letter",
+   "value": "q"
+  },
+  "82": {
+   "kind": "letter",
+   "value": "w"
+  },
+  "83": {
+   "kind": "char",
+   "value": "1"
+  },
+  "84": {
+   "kind": "char",
+   "value": "2"
+  },
+  "86": {
+   "kind": "char",
+   "value": "3"
+  },
+  "88": {
+   "kind": "char",
+   "value": "4"
+  },
+  "89": {
+   "kind": "char",
+   "value": "5"
+  },
+  "91": {
+   "kind": "char",
+   "value": "6"
+  },
+  "93": {
+   "kind": "char",
+   "value": "7"
+  },
+  "94": {
+   "kind": "char",
+   "value": "0"
+  },
+  "95": {
+   "kind": "char",
+   "value": "8"
+  },
+  "96": {
+   "kind": "char",
+   "value": "9"
+  }
+ },
+ "meta": {
+  "score": 1.52177,
+  "alphabetical_score": 3.2046,
+  "parts": {
+   "harmony": 0.3508,
+   "melody": 0.4686,
+   "black_keys": 0.235,
+   "center": 0.3392,
+   "overtone_clash": 0.0193
+  }
+ }
+}

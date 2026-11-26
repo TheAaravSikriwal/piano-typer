@@ -1,0 +1,268 @@
+{
+ "version": 2,
+ "name": "folded laptop",
+ "lowest_midi": 36,
+ "highest_midi": 96,
+ "keys": {
+  "36": {
+   "kind": "control",
+   "value": "undo"
+  },
+  "37": {
+   "kind": "control",
+   "value": "suggest1"
+  },
+  "38": {
+   "kind": "control",
+   "value": "delete_word"
+  },
+  "39": {
+   "kind": "control",
+   "value": "suggest2"
+  },
+  "42": {
+   "kind": "control",
+   "value": "suggest3"
+  },
+  "43": {
+   "kind": "control",
+   "value": "shift"
+  },
+  "44": {
+   "kind": "letter",
+   "value": "x"
+  },
+  "45": {
+   "kind": "letter",
+   "value": "q"
+  },
+  "46": {
+   "kind": "letter",
+   "value": "z"
+  },
+  "47": {
+   "kind": "letter",
+   "value": "d"
+  },
+  "48": {
+   "kind": "letter",
+   "value": "r"
+  },
+  "49": {
+   "kind": "letter",
+   "value": "v"
+  },
+  "50": {
+   "kind": "letter",
+   "value": "s"
+  },
+  "51": {
+   "kind": "letter",
+   "value": "f"
+  },
+  "52": {
+   "kind": "letter",
+   "value": "a"
+  },
+  "53": {
+   "kind": "letter",
+   "value": "b"
+  },
+  "54": {
+   "kind": "letter",
+   "value": "w"
+  },
+  "55": {
+   "kind": "letter",
+   "value": "t"
+  },
+  "56": {
+   "kind": "letter",
+   "value": "g"
+  },
+  "57": {
+   "kind": "letter",
+   "value": "e"
+  },
+  "58": {
+   "kind": "letter",
+   "value": "c"
+  },
+  "59": {
+   "kind": "control",
+   "value": "backspace"
+  },
+  "60": {
+   "kind": "control",
+   "value": "space"
+  },
+  "61": {
+   "kind": "control",
+   "value": "double"
+  },
+  "62": {
+   "kind": "control",
+   "value": "complete"
+  },
+  "63": {
+   "kind": "letter",
+   "value": "h"
+  },
+  "64": {
+   "kind": "letter",
+   "value": "o"
+  },
+  "65": {
+   "kind": "letter",
+   "value": "i"
+  },
+  "66": {
+   "kind": "letter",
+   "value": "p"
+  },
+  "67": {
+   "kind": "letter",
+   "value": "l"
+  },
+  "68": {
+   "kind": "letter",
+   "value": "k"
+  },
+  "69": {
+   "kind": "letter",
+   "value": "j"
+  },
+  "70": {
+   "kind": "letter",
+   "value": "y"
+  },
+  "71": {
+   "kind": "letter",
+   "value": "u"
+  },
+  "72": {
+   "kind": "letter",
+   "value": "n"
+  },
+  "73": {
+   "kind": "letter",
+   "value": "m"
+  },
+  "74": {
+   "kind": "char",
+   "value": "."
+  },
+  "75": {
+   "kind": "char",
+   "value": "'"
+  },
+  "76": {
+   "kind": "char",
+   "value": ","
+  },
+  "77": {
+   "kind": "char",
+   "value": "?"
+  },
+  "78": {
+   "kind": "char",
+   "value": "-"
+  },
+  "79": {
+   "kind": "char",
+   "value": "!"
+  },
+  "81": {
+   "kind": "control",
+   "value": "enter"
+  },
+  "83": {
+   "kind": "char",
+   "value": "1"
+  },
+  "84": {
+   "kind": "char",
+   "value": "2"
+  },
+  "86": {
+   "kind": "char",
+   "value": "3"
+  },
+  "88": {
+   "kind": "char",
+   "value": "4"
+  },
+  "89": {
+   "kind": "char",
+   "value": "5"
+  },
+  "91": {
+   "kind": "char",
+   "value": "6"
+  },
+  "93": {
+   "kind": "char",
+   "value": "7"
+  },
+  "94": {
+   "kind": "char",
+   "value": "0"
+  },
+  "95": {
+   "kind": "char",
+   "value": "8"
+  },
+  "96": {
+   "kind": "char",
+   "value": "9"
+  }
+ },
+ "zones": [
+  {
+   "a": 36,
+   "b": 43,
+   "cls": "z-ctrl",
+   "name": "Edit"
+  },
+  {
+   "a": 44,
+   "b": 58,
+   "cls": "z-letter",
+   "name": "Left hand"
+  },
+  {
+   "a": 59,
+   "b": 62,
+   "cls": "z-ctrl",
+   "name": "Space"
+  },
+  {
+   "a": 63,
+   "b": 73,
+   "cls": "z-letter",
+   "name": "Right hand"
+  },
+  {
+   "a": 74,
+   "b": 82,
+   "cls": "z-ctrl",
+   "name": "Punct \u21b5"
+  },
+  {
+   "a": 83,
+   "b": 96,
+   "cls": "z-digit",
+   "name": "Digits"
+  }
+ ],
+ "meta": {
+  "score": 3.90483,
+  "parts": {
+   "harmony": 0.3573,
+   "melody": 0.884,
+   "black_keys": 0.227,
+   "center": 0.4898,
+   "overtone_clash": 0.0328
+  }
+ }
+}
